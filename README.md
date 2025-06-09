@@ -19,4 +19,13 @@ This tool performs:
 ---
 
 ## Project Structure
+```
+pyshark-pcap-inspector/
+├── analyzer.py # Final combined script
+├── test.pcap # Sample capture file (add your own)
+├── analyzer_query_counter.py # Feature: DNS query counter (archived)
+├── analyzer_long_domains.py # Feature: Long subdomain detector (archived)
+├── analyzer_log_output.py # Feature: File logging (archived)
+└── README.md
+```
 
